@@ -1,0 +1,1 @@
+I developed a machine learning-based salary prediction model. By analyzing various factors like experience, education, and industry, the model accurately estimates salaries. It provides valuable insights for individuals and organizations, aiding in salary negotiations and informed decision-making.
